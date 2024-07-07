@@ -13,6 +13,6 @@
  }
  `
 7.  **Education:**
-    - Zaporizhzhia State Medical and Pharmaceutical University 2017-2023
-    - Training center by FRESHCODE 2021-2022
-8. **English level:** A2
+    - Zaporizhzhia State Medical and Pharmaceutical University 2017-2023;
+    - Training center by FRESHCODE 2021-2022;
+8. **English level:** A2;
